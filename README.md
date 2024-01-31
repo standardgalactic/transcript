@@ -1,7 +1,6 @@
 # transcript
 Curriculum vitae
 
-## Permanent record
 
 ![](Permanent-Record-1.jpg)
 ![](Permanent-Record-2.jpg)
@@ -11,13 +10,9 @@ Curriculum vitae
 ![](Permanent-Record-6.jpg)
 ![](Permanent-Record-7.jpg)
 
-## Reading
-
 ![](Reading-1.jpg)
 ![](Reading-2.jpg)
 ![](Reading-3.jpg)
-
-## Transcript
 
 ![](Transcript-1.jpg)
 ![](Transcript-2.jpg)
